@@ -1,0 +1,62 @@
+
+body{
+  border: 5px solid palevioletred;
+  border-radius: 10px;
+  text-align: center;
+  height: 300px;
+}
+.head1{
+  color: navy;
+  text-align: center
+}
+h2{
+  color: palevioletred
+}
+.Enter{
+  color: white;
+  box-shadow: 4px;
+  border-radius: 5px;
+  background-color: blue;
+  height: 40px;
+  width: 100px;
+}
+.inp1{
+  border-radius: 25px;
+  height: 60px;
+  width: 360px;
+  font-size: 15px;
+  border: 1px gray;
+  outline: none;
+  box-shadow: 2px 2px 2px 2px gray;
+  
+}
+p{
+color:navy;
+text-align: center;
+font-family: Verdana;
+font-size: 20px;
+}
+input{
+  color:brown;
+}
+#submit{
+  color:navy;
+  font-size: 15px;
+  font-family: Verdana;
+  box-shadow: 4px;
+  border-radius: 5px;
+  background-color:white;
+  height: 40px;
+  width: 100px;
+  outline: none;
+}
+#form1 {
+  color: navy;
+  display: inline-block;
+  text-align: left;
+  width:"100px";
+  font-size: 20px;
+}
+#d1{
+  height: 300px;
+}
